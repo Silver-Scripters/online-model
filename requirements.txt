@@ -1,0 +1,5 @@
+mabalgs==0.6.8
+numpy==1.21.4
+onn==0.2.1
+torch==1.10.0
+typing-extensions==4.0.0
